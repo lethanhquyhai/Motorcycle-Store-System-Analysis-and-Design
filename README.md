@@ -14,7 +14,6 @@ The system aims to improve efficiency, reduce redundancy, and ensure seamless ma
 ## Project Structure  
 ```
 Motorcycle_Store_System  
- ├── README.md  
  ├── System_Design_Document.pdf  
  ├── ERD_Diagram.pdf  
  ├── Logical_Database_Design.pdf  
